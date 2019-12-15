@@ -1,0 +1,136 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrizBi",
+            "request": "launch",
+            "mainClass": "MatrizBi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bidimensional",
+            "request": "launch",
+            "mainClass": "Bidimensional"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cien",
+            "request": "launch",
+            "mainClass": "Cien"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Paises",
+            "request": "launch",
+            "mainClass": "Paises"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CorreoMejorado",
+            "request": "launch",
+            "mainClass": "CorreoMejorado"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Correo",
+            "request": "launch",
+            "mainClass": "Correo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Peso",
+            "request": "launch",
+            "mainClass": "Peso"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "Example"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Juego",
+            "request": "launch",
+            "mainClass": "Juego"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pass",
+            "request": "launch",
+            "mainClass": "Pass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contraseña",
+            "request": "launch",
+            "mainClass": "Contraseña"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FigurasGeometricas",
+            "request": "launch",
+            "mainClass": "FigurasGeometricas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Edad",
+            "request": "launch",
+            "mainClass": "Edad"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClaseJOptionPane",
+            "request": "launch",
+            "mainClass": "ClaseJOptionPane"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClaseScanner",
+            "request": "launch",
+            "mainClass": "ClaseScanner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EntradaDatos_08",
+            "request": "launch",
+            "mainClass": "EntradaDatos_08"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BusquedaLineal",
+            "request": "launch",
+            "mainClass": "BusquedaLineal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MetodoBurbuja",
+            "request": "launch",
+            "mainClass": "MetodoBurbuja"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloForEachMapa",
+            "request": "launch",
+            "mainClass": "CicloForEachMapa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloForEach",
+            "request": "launch",
+            "mainClass": "CicloForEach"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloFor",
+            "request": "launch",
+            "mainClass": "CicloFor"
+        }
+    ]
+}
